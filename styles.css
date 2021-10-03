@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap");
+
+body {
+    margin: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: "Gemunu Libre", sans-serif;
+}
+
+nav {
+    font-size: 1.5rem;
+}
+
+footer {
+    align-items: center;
+    background-color: black;
+    bottom: 0;
+    color: green;
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: center;
+    height: 40px;
+    position: absolute;
+    width: 100%;
+}
